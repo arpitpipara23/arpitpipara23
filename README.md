@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Arpit.
 - 👀 I’m interested in learning new things.
-- 🌱 I’m currently learning deep learning.
 - 💞️ I’m looking to collaborate on REST API projects.
 - 📫 How to reach me ...
 
